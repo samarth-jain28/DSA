@@ -25,7 +25,7 @@ void Sort(vector<int>&v){
 }
 
 int main(){
-    vector<int> v{5,4,7,6,1,2,9,8};
+    vector<int> v{5,4,7,6,1,2,9,8,0,0,1,2,3,9,9,2,10,20};
     Sort(v);
     for(int i : v){
         cout<<i<<endl;
