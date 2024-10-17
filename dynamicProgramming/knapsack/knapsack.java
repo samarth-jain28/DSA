@@ -1,4 +1,4 @@
-
+package knapsack;
 class knapsack{
     public static int solve01Knapsack(int[]wt, int[]val, int w, int n){
         if(w==0 || n==0){

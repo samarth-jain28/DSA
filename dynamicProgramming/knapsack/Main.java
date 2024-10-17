@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package knapsack;
 class Main{
     public static void main(String[]args){
         // int w = 7;

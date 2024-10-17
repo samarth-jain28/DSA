@@ -1,3 +1,4 @@
+package knapsack;
 public class subsetSum{
     private boolean t[][];
 
