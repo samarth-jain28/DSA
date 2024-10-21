@@ -1,3 +1,4 @@
+
 public class getElement {
     public static int nCr(int n, int r){
         int res = 1;

@@ -1,6 +1,6 @@
-public class Main{
+public class Pascle{
     
-    public static void main(String[] args) {
+    static void pascle() {
         int n=5;
         System.out.println(getRow.get(n));
 
